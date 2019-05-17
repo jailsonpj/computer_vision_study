@@ -1,2 +1,2 @@
-# Monitoramento Facial usando Visão Computacional
-MONITORAMENTO DE FREQUÊNCIA ESCOLAR BASEADO EM VISÃO COMPUTACIONAL E IOT
+# Computer Vision Study repository
+
